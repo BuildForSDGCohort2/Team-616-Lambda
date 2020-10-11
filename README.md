@@ -1,4 +1,4 @@
-# Team-616-Lambda
+# Lambda
 Mordernizing Education In Cameroon. 
 
 This project is not yet complete and much work still has to be done on it.
